@@ -8,7 +8,7 @@ Sabiendo que con un movimiento desde cualquier posición que esté en el teclado
 
 Este programa se puede realizar de varias formas, por ejemplo un diagrama de árbol o una tabla de contingencias, pero creemos esta ecuación es la mas eficiente. Si deseas verla, la puedes ver en: https://github.com/cdiezgaruax/Aprendiendo-a-ser-un-buen-Ingeniero-/blob/main/Foto%20Ejercicio.jpg
 
-Tambien tenemos un ejemplo del diagrama del arbol que esta resumido pero tienes al lado una tabla donde puedes ver dependiendo de la casilla los numeros a los que puede ir:https://github.com/cdiezgaruax/Aprendiendo-a-ser-un-buen-Ingeniero-/blob/main/Diagrama%20desde%20casilla%20inicial.jpg
+También tenemos un ejemplo del diagrama del árbol que esta resumido, pero tienes al lado una tabla donde puedes ver dependiendo de la casilla los números a los que puede ir:https://github.com/cdiezgaruax/Aprendiendo-a-ser-un-buen-Ingeniero-/blob/main/Diagrama%20desde%20casilla%20inicial.jpg
 
 ## Participantes
      Alejandro Durán
