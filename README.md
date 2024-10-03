@@ -3,6 +3,6 @@
 
 ## Participates
      Alejandro Duran
-     Gabriel 
+     Gabriel Kaakedjian
      Alfredo Rubert
      Carlos Garcia
