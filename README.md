@@ -9,7 +9,7 @@ Sabiendo que con un movimiento desde cualquier posición que esté en el teclado
 Este programa se puede realizar de varias formas, por ejemplo un diagrama de árbol o una tabla de contingencias, pero creemos esta ecuación es la mas eficiente. Si deseas verla, la puedes ver en: 
 
 ## Participantes
-     Alejandro Duran
+     Alejandro Durán
      Gabriel Kaakedjian
      Alfredo Rubert
      Carlos Garcia
