@@ -6,7 +6,9 @@ Según nuestras observaciones, hemos concluido con un desarrollo de una ecuació
 
 Sabiendo que con un movimiento desde cualquier posición que esté en el teclado numerico, con una cierta distribución asumiendo que el 0 se ecnuentra bajo del 8, determinamos que hay 20 posibles movimientos, entonces, nuestra formula explica claramente que hay un relación entre las posiciones y sus supestos movimientos dando un resultado verídico.
 
-Este programa se puede realizar de varias formas, por ejemplo un diagrama de árbol o una tabla de contingencias, pero creemos esta ecuación es la mas eficiente. Si deseas verla, la puedes ver en: 
+Este programa se puede realizar de varias formas, por ejemplo un diagrama de árbol o una tabla de contingencias, pero creemos esta ecuación es la mas eficiente. Si deseas verla, la puedes ver en: https://github.com/cdiezgaruax/Aprendiendo-a-ser-un-buen-Ingeniero-/blob/main/Foto%20Ejercicio.jpg
+
+Tambien tenemos un ejemplo del diagrama del arbol que esta resumido pero tienes al lado una tabla donde puedes ver dependiendo de la casilla los numeros a los que puede ir:
 
 ## Participantes
      Alejandro Durán
